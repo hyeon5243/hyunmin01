@@ -88,11 +88,11 @@ main {
 .main-text{
     font-family: "Noto Sans KR", sans-serif;
     font-optical-sizing: auto;
-    font-size: 60px;
+    font-size: 45px;
     position: absolute;
     top: 40px;
     line-height: 1.55;
-    left: 240px;
+    left: 100px;
     font-weight: 900;
     font-style: normal;
 }
@@ -100,12 +100,12 @@ main {
 .main-text02 {
     font-family: "Noto Sans KR", sans-serif;
     font-optical-sizing: auto;
-    font-size: 57.5px;
+    font-size: 45px;
     line-height: 1.55;
     font-weight: 900;
     font-style: normal;
-    margin-top: 230px;
-    margin-left: 680px; /* 내부 여백으로 변경 */
+    margin-top: 200px;
+    margin-left: 700px; /* 내부 여백으로 변경 */
 }
 
 .highlight {
